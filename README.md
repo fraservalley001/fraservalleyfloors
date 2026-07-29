@@ -36,7 +36,7 @@
   }
   a{color:inherit;text-decoration:none;}
   img{max-width:100%;display:block;}
-  .container{width:100%;max-width:100%;margin:0;padding:0 24px;}
+  .container{max-width:1180px;margin:0 auto;padding:0 24px;}
   .eyebrow{
     text-transform:uppercase;
     font-size:0.78rem;
