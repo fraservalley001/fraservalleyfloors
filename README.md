@@ -36,7 +36,7 @@
   }
   a{color:inherit;text-decoration:none;}
   img{max-width:100%;display:block;}
-  .container{max-width:1180px;margin:0 auto;padding:0 24px;}
+  .container{width:100%;max-width:100%;margin:0;padding:0 24px;}
   .eyebrow{
     text-transform:uppercase;
     font-size:0.78rem;
@@ -260,7 +260,7 @@
 <section class="hero" style="padding:0;">
   <div class="container hero-inner">
     <span class="eyebrow">Fraser Valley, BC</span>
-    <h1>Best Flooring Contractor in Fraser Valley — Epoxy Coatings &amp; Concrete Experts</h1>
+    <h1>Fraser Valley's Flooring Contractor — Epoxy Coatings &amp; Concrete Experts</h1>
     <p>Residential &amp; commercial flooring installation, epoxy floor coatings, and concrete resurfacing — built to last, finished to impress.</p>
     <div class="hero-ctas">
       <a href="https://www.fraservalleyfloors.com/contact" class="btn btn-primary">Get a Free Quote</a>
